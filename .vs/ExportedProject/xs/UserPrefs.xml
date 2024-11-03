@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Unity.TextMeshPro/TMPro/TMP_InputField.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Unity.TextMeshPro/TMPro/TMP_InputField.cs" Line="3693" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExportedProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="376a32f0-ca1c-440f-bdda-f3f1c87e55f3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
